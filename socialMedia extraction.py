@@ -1,6 +1,6 @@
+# In this program you can extract what ever the links will be in the website it will extract and provide it with you
 #first of all pip install requests in cmd prompt to link with the server to extract the data
 # also pip install Beautifulsoup to parse the html content using beatutiful soup
-
 import requests 
 from bs4 import BeautifulSoup
 import re
